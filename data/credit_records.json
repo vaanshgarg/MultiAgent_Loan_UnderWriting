@@ -1,0 +1,24 @@
+
+{
+    "APP001": {
+        "previous_defaults": 0,
+        "late_payments": 0,
+        "active_overdue": 0
+    },
+    "APP002": {
+        "previous_defaults": 1,
+        "late_payments": 3,
+        "active_overdue": 1
+    },
+    "APP003": {
+        "previous_defaults": 0,
+        "late_payments": 2,
+        "active_overdue": 0
+    },
+    "APP004": {
+        "previous_defaults": 0,
+        "late_payments": 0,
+        "active_overdue": 0
+    }
+}
+    
